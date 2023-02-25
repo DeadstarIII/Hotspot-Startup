@@ -15,4 +15,4 @@
 
 # Support
 
-Do you guys need Windows 7/10/Linux support? I can add it if you want or fix the issues you're having just add me on discord and <a href="https://discord.com/users/920971430588473386" rel="noreferrer noopener" target="_blank">DM</a> me or else you can also mail me or create a issue in this repository.
+Do you guys need Windows 7/10/Linux support? I can add it if you want or fix the issues you're having just add me on discord and <a href="https://discord.com/users/920971430588473386" rel="noreferrer noopener" target="_blank">DM</a> me or else you can create a issue in this repository.
