@@ -12,3 +12,7 @@ To run this code on startup in Windows 11, you can follow these steps:
 10. Click "OK" to save the task.
 
     Now your Python script will run automatically on startup, turning on the mobile hotspot.
+
+# Support
+
+Do you guys need Windows 7/10/Linux support? I can add it if you want or fix the issues you're having just add me on discord and DM me or else you can also mail me or create a issue in this repository.
