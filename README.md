@@ -8,7 +8,7 @@ To run this code on startup in Windows 11, you can follow these steps:
 6. Go to the "Actions" tab and click on "New".
 7. Select "Start a program" for the "Action" option.
 8. Enter the path to your Python script and the path to your script.
-9. For example <pre>pythonw run C:\Users\Download\python.py</pre>
+9. For example <pre>pythonw run C:\Users\Downloads\app.py</pre>
 10. Click "OK" to save the task.
 
     Now your Python script will run automatically on startup, turning on the mobile hotspot.
